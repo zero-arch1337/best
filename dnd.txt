@@ -524,12 +524,14 @@ input[type=checkbox]{width:13px;height:13px;accent-color:var(--b2);cursor:pointe
 <?php if(!$LOGGED): ?>
 <div class="lp">
 <pre class="la">
-██████╗ ███╗   ██╗███████╗███╗   ██╗██████╗
-██╔══██╗████╗  ██║██╔════╝████╗  ██║██╔══██╗
-██║  ██║██╔██╗ ██║█████╗  ██╔██╗ ██║██║  ██║
-██║  ██║██║╚██╗██║██╔══╝  ██║╚██╗██║██║  ██║
-██████╔╝██║ ╚████║███████╗██║ ╚████║██████╔╝
-╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝╚═════╝</pre>
+ _______  _______  _______  _______
+/ ___   )(  ____ \(  ____ )(  ___  )
+\/   )  || (    \/| (    )|| (   ) |
+    /   )| (__    | (____)|| |   | |
+   /   / |  __)   |     __)| |   | |
+  /   /  | (      | (\ (   | |   | |
+ /   (_/\| (____/\| ) \ \__| (___) |
+(_______/(_______/|/   \__/(_______) </pre>
 <div class="lb">
   <h2>Authentication Required</h2>
   <p>DNEND <?php echo DNEND_VER; ?> &bull; <?php echo dnH($domain); ?></p>
@@ -545,7 +547,7 @@ input[type=checkbox]{width:13px;height:13px;accent-color:var(--b2);cursor:pointe
     </button>
   </form>
 </div>
-<div class="pf">DNEND <?php echo DNEND_VER; ?> &bull; by <b>SERIKAT DND 993</b></div>
+<div class="pf">DNEND <?php echo DNEND_VER; ?> &bull; by <b>ZERO 993</b></div>
 </div>
 
 <?php else: ?>
@@ -564,13 +566,15 @@ input[type=checkbox]{width:13px;height:13px;accent-color:var(--b2);cursor:pointe
   </div>
   <div class="logo-blk">
     <pre class="logo-art">
-██████╗ ███╗   ██╗███████╗███╗   ██╗██████╗
-██╔══██╗████╗  ██║██╔════╝████╗  ██║██╔══██╗
-██║  ██║██╔██╗ ██║█████╗  ██╔██╗ ██║██║  ██║
-██║  ██║██║╚██╗██║██╔══╝  ██║╚██╗██║██║  ██║
-██████╔╝██║ ╚████║███████╗██║ ╚████║██████╔╝
-╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝╚═════╝</pre>
-    <div class="logo-meta"><?php echo DNEND_VER; ?> &bull; by <b>SERIKAT DND 993</b> &bull; <?php echo dnH($domain); ?></div>
+ _______  _______  _______  _______
+/ ___   )(  ____ \(  ____ )(  ___  )
+\/   )  || (    \/| (    )|| (   ) |
+    /   )| (__    | (____)|| |   | |
+   /   / |  __)   |     __)| |   | |
+  /   /  | (      | (\ (   | |   | |
+ /   (_/\| (____/\| ) \ \__| (___) |
+(_______/(_______/|/   \__/(_______)</pre>
+    <div class="logo-meta"><?php echo DNEND_VER; ?> &bull; by <b>ZERO 993</b> &bull; <?php echo dnH($domain); ?></div>
   </div>
 </div>
 
@@ -727,7 +731,7 @@ input[type=checkbox]{width:13px;height:13px;accent-color:var(--b2);cursor:pointe
 </div>
 
 <div class="pf">
-  DNEND <?php echo DNEND_VER; ?> &bull; by <b>SERIKAT DND 993</b> &bull; <?php echo count($items); ?> items &bull; <?php echo dnH($domain); ?><br>
+  DNEND <?php echo DNEND_VER; ?> &bull; by <b>ZERO 993</b> &bull; <?php echo count($items); ?> items &bull; <?php echo dnH($domain); ?><br>
   <small style="color:var(--tx3)">Dev Natan Utama &copy; 2026</small>
 </div>
 </div>
