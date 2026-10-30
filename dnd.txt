@@ -21,9 +21,9 @@
  *
  */
 // GANTI PASSWORD DI SINI YA, GANTI PASS PAKE BCRYPT //default pass dnend993
-define('DNEND_PASS','$2y$10$./AmtpEeYBiBBy7KwjNKLuNb6F4/EkiFAi9X7.OL/ZUis9KLyNoDW');
+define('DNEND_PASS','$2y$10$vygY7lr92oNS6NO4vExU7u2eUVlNdK6OgoIWYLEEXZ66hWb1Hjkpe');
 // ===================================================
-if(!defined('DNEND_KEY'))    define('DNEND_KEY','dn3nd99x!k82');
+if(!defined('DNEND_KEY'))    define('DNEND_KEY','dn324d88x!k82');
 if(!defined('DNEND_NOAUTH')) define('DNEND_NOAUTH',false);
 define('DNEND_VER','v 1.0');
 
